@@ -13,7 +13,7 @@ header {
 nav {
     border: none;
     border-radius: 0px;
-    background-color: #7ab8f5;
+    background-color:	#400000;
     margin: 1%;
     padding: 1%;
 }
@@ -56,7 +56,7 @@ nav li {
 nav li a, aside li a {
     border-radius: 10px;
     padding: 0.5%;
-    font-weight: #7ab8f5;
+    font-weight: #400000;
     text-decoration: none;
 }
 nav li a:hover, aside li a:hover {
@@ -69,7 +69,7 @@ aside li a {
 
 
 .top-bar {
-  background-color: #7ab8f5;
+  background-color: #400000;
   color: #fff;
   padding: 10px;
   text-align: left;
